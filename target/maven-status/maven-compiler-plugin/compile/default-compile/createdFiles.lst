@@ -1,0 +1,17 @@
+teccr\justdoitcloud\api\UsersController.class
+teccr\justdoitcloud\repository\JdbcUserRepository.class
+teccr\justdoitcloud\service\external\taskgenerator\TaskGeneratorImpl.class
+teccr\justdoitcloud\repository\JdbcTaskRepository.class
+teccr\justdoitcloud\data\Task.class
+teccr\justdoitcloud\data\User.class
+teccr\justdoitcloud\service\external\taskgenerator\TaskGenerator.class
+teccr\justdoitcloud\api\TasksController.class
+teccr\justdoitcloud\JustDoItCloudApplication.class
+teccr\justdoitcloud\service\external\dto\DummyJsonTODODto.class
+teccr\justdoitcloud\repository\UserRepository.class
+teccr\justdoitcloud\repository\TaskRepository.class
+teccr\justdoitcloud\service\TaskService.class
+teccr\justdoitcloud\data\User$Type.class
+teccr\justdoitcloud\config\RestTemplateConfig.class
+teccr\justdoitcloud\data\Task$Status.class
+teccr\justdoitcloud\service\UserService.class
